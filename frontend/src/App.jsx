@@ -6,7 +6,7 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Public from "./pages/Public";
 import Private from "./pages/Private";
-import NotFound from "./pages/Notfound";
+import NotFound from "./pages/NotFound";
 import { Toaster } from "sonner";
 import { useEffect } from "react";
 import { useAuthStore } from "./store/authStore";
